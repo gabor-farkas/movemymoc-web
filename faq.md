@@ -17,3 +17,10 @@ Also, the main focus of the game is letting people import their models that were
 Having sad that, it could make sense to have a variant of the game that doesn't include the detailed model configurator and level designer screens, but just lets users select from already designed models and maps.
 
 In the future, when Steam Workshop integration or some other mechanism will let users share their models and map in a central way, this could make more sense.
+
+## How does it handle big models?
+In short: don't plan import your full city models and multiple thousand-pieces detailed cars.
+
+This of course depends on your computer's resources, but the game doesn't apply much optimization on the imported models. This will likely improve in the future, but please don't take this as a promise that the game would eventually handle millions of parts in a single scene.
+
+In case you're concerned about performance before buying the game, please join our <a target="_blank" href="https://discord.gg/arPXtZ7U">discord</a> and check with other users how the game performs on a setup similar to yours.
