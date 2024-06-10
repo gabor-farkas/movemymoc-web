@@ -27,6 +27,11 @@ FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TOR
 OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
 
+## NativeFileSO
+The NativeFileSO library is used for opening files, under MPL2 license, see https://github.com/keiwando/nativefileso/blob/master/LICENSE
+
+
+
 ## Sound samples
 The game bundles free to use sound samples from Freesound and Pixabay:
 
